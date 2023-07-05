@@ -1,0 +1,54 @@
+C:\Users\ahaynes\source\repos\EXCEL to XML\obj\Debug\net7.0\EXCEL to XML.csproj.AssemblyReference.cache
+C:\Users\ahaynes\source\repos\EXCEL to XML\obj\Debug\net7.0\EXCEL to XML.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahaynes\source\repos\EXCEL to XML\obj\Debug\net7.0\EXCEL to XML.AssemblyInfoInputs.cache
+C:\Users\ahaynes\source\repos\EXCEL to XML\obj\Debug\net7.0\EXCEL to XML.AssemblyInfo.cs
+C:\Users\ahaynes\source\repos\EXCEL to XML\obj\Debug\net7.0\EXCEL to XML.csproj.CoreCompileInputs.cache
+C:\Users\ahaynes\source\repos\EXCEL to XML\bin\Debug\net7.0\EXCEL to XML.exe
+C:\Users\ahaynes\source\repos\EXCEL to XML\bin\Debug\net7.0\EXCEL to XML.deps.json
+C:\Users\ahaynes\source\repos\EXCEL to XML\bin\Debug\net7.0\EXCEL to XML.runtimeconfig.json
+C:\Users\ahaynes\source\repos\EXCEL to XML\bin\Debug\net7.0\EXCEL to XML.dll
+C:\Users\ahaynes\source\repos\EXCEL to XML\bin\Debug\net7.0\EXCEL to XML.pdb
+C:\Users\ahaynes\source\repos\EXCEL to XML\bin\Debug\net7.0\ClosedXML.dll
+C:\Users\ahaynes\source\repos\EXCEL to XML\bin\Debug\net7.0\CsvHelper.dll
+C:\Users\ahaynes\source\repos\EXCEL to XML\bin\Debug\net7.0\CsvHelper.Excel.dll
+C:\Users\ahaynes\source\repos\EXCEL to XML\bin\Debug\net7.0\DocumentFormat.OpenXml.dll
+C:\Users\ahaynes\source\repos\EXCEL to XML\bin\Debug\net7.0\ExcelNumberFormat.dll
+C:\Users\ahaynes\source\repos\EXCEL to XML\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ahaynes\source\repos\EXCEL to XML\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\ahaynes\source\repos\EXCEL to XML\bin\Debug\net7.0\System.IO.Packaging.dll
+C:\Users\ahaynes\source\repos\EXCEL to XML\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ahaynes\source\repos\EXCEL to XML\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.0\System.Drawing.Common.dll
+C:\Users\ahaynes\source\repos\EXCEL to XML\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.0\System.Drawing.Common.dll
+C:\Users\ahaynes\source\repos\EXCEL to XML\obj\Debug\net7.0\EXCEL to XML.csproj.CopyComplete
+C:\Users\ahaynes\source\repos\EXCEL to XML\obj\Debug\net7.0\EXCEL to XML.dll
+C:\Users\ahaynes\source\repos\EXCEL to XML\obj\Debug\net7.0\refint\EXCEL to XML.dll
+C:\Users\ahaynes\source\repos\EXCEL to XML\obj\Debug\net7.0\EXCEL to XML.pdb
+C:\Users\ahaynes\source\repos\EXCEL to XML\obj\Debug\net7.0\EXCEL to XML.genruntimeconfig.cache
+C:\Users\ahaynes\source\repos\EXCEL to XML\obj\Debug\net7.0\ref\EXCEL to XML.dll
+C:\Users\cqb13\Desktop\EXCEL_to_XML\EXCEL to XML\bin\Debug\net7.0\EXCEL to XML.exe
+C:\Users\cqb13\Desktop\EXCEL_to_XML\EXCEL to XML\bin\Debug\net7.0\EXCEL to XML.deps.json
+C:\Users\cqb13\Desktop\EXCEL_to_XML\EXCEL to XML\bin\Debug\net7.0\EXCEL to XML.runtimeconfig.json
+C:\Users\cqb13\Desktop\EXCEL_to_XML\EXCEL to XML\bin\Debug\net7.0\EXCEL to XML.dll
+C:\Users\cqb13\Desktop\EXCEL_to_XML\EXCEL to XML\bin\Debug\net7.0\EXCEL to XML.pdb
+C:\Users\cqb13\Desktop\EXCEL_to_XML\EXCEL to XML\bin\Debug\net7.0\ClosedXML.dll
+C:\Users\cqb13\Desktop\EXCEL_to_XML\EXCEL to XML\bin\Debug\net7.0\CsvHelper.dll
+C:\Users\cqb13\Desktop\EXCEL_to_XML\EXCEL to XML\bin\Debug\net7.0\CsvHelper.Excel.dll
+C:\Users\cqb13\Desktop\EXCEL_to_XML\EXCEL to XML\bin\Debug\net7.0\DocumentFormat.OpenXml.dll
+C:\Users\cqb13\Desktop\EXCEL_to_XML\EXCEL to XML\bin\Debug\net7.0\ExcelNumberFormat.dll
+C:\Users\cqb13\Desktop\EXCEL_to_XML\EXCEL to XML\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\cqb13\Desktop\EXCEL_to_XML\EXCEL to XML\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\cqb13\Desktop\EXCEL_to_XML\EXCEL to XML\bin\Debug\net7.0\System.IO.Packaging.dll
+C:\Users\cqb13\Desktop\EXCEL_to_XML\EXCEL to XML\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\cqb13\Desktop\EXCEL_to_XML\EXCEL to XML\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.0\System.Drawing.Common.dll
+C:\Users\cqb13\Desktop\EXCEL_to_XML\EXCEL to XML\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.0\System.Drawing.Common.dll
+C:\Users\cqb13\Desktop\EXCEL_to_XML\EXCEL to XML\obj\Debug\net7.0\EXCEL to XML.csproj.AssemblyReference.cache
+C:\Users\cqb13\Desktop\EXCEL_to_XML\EXCEL to XML\obj\Debug\net7.0\EXCEL to XML.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cqb13\Desktop\EXCEL_to_XML\EXCEL to XML\obj\Debug\net7.0\EXCEL to XML.AssemblyInfoInputs.cache
+C:\Users\cqb13\Desktop\EXCEL_to_XML\EXCEL to XML\obj\Debug\net7.0\EXCEL to XML.AssemblyInfo.cs
+C:\Users\cqb13\Desktop\EXCEL_to_XML\EXCEL to XML\obj\Debug\net7.0\EXCEL to XML.csproj.CoreCompileInputs.cache
+C:\Users\cqb13\Desktop\EXCEL_to_XML\EXCEL to XML\obj\Debug\net7.0\EXCEL to XML.csproj.CopyComplete
+C:\Users\cqb13\Desktop\EXCEL_to_XML\EXCEL to XML\obj\Debug\net7.0\EXCEL to XML.dll
+C:\Users\cqb13\Desktop\EXCEL_to_XML\EXCEL to XML\obj\Debug\net7.0\refint\EXCEL to XML.dll
+C:\Users\cqb13\Desktop\EXCEL_to_XML\EXCEL to XML\obj\Debug\net7.0\EXCEL to XML.pdb
+C:\Users\cqb13\Desktop\EXCEL_to_XML\EXCEL to XML\obj\Debug\net7.0\EXCEL to XML.genruntimeconfig.cache
+C:\Users\cqb13\Desktop\EXCEL_to_XML\EXCEL to XML\obj\Debug\net7.0\ref\EXCEL to XML.dll

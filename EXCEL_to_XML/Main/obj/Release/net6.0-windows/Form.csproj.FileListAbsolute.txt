@@ -1,0 +1,47 @@
+C:\Users\cqb13\Desktop\EXCEL_to_XML\Main\bin\Release\net6.0-windows\Form.exe
+C:\Users\cqb13\Desktop\EXCEL_to_XML\Main\bin\Release\net6.0-windows\Form.deps.json
+C:\Users\cqb13\Desktop\EXCEL_to_XML\Main\bin\Release\net6.0-windows\Form.runtimeconfig.json
+C:\Users\cqb13\Desktop\EXCEL_to_XML\Main\bin\Release\net6.0-windows\Form.dll
+C:\Users\cqb13\Desktop\EXCEL_to_XML\Main\bin\Release\net6.0-windows\Form.pdb
+C:\Users\cqb13\Desktop\EXCEL_to_XML\Main\bin\Release\net6.0-windows\ClosedXML.dll
+C:\Users\cqb13\Desktop\EXCEL_to_XML\Main\bin\Release\net6.0-windows\CsvHelper.dll
+C:\Users\cqb13\Desktop\EXCEL_to_XML\Main\bin\Release\net6.0-windows\CsvHelper.Excel.dll
+C:\Users\cqb13\Desktop\EXCEL_to_XML\Main\bin\Release\net6.0-windows\DocumentFormat.OpenXml.dll
+C:\Users\cqb13\Desktop\EXCEL_to_XML\Main\bin\Release\net6.0-windows\ExcelNumberFormat.dll
+C:\Users\cqb13\Desktop\EXCEL_to_XML\Main\obj\Release\net6.0-windows\Form.csproj.AssemblyReference.cache
+C:\Users\cqb13\Desktop\EXCEL_to_XML\Main\obj\Release\net6.0-windows\Main.MainForm.resources
+C:\Users\cqb13\Desktop\EXCEL_to_XML\Main\obj\Release\net6.0-windows\Form.csproj.GenerateResource.cache
+C:\Users\cqb13\Desktop\EXCEL_to_XML\Main\obj\Release\net6.0-windows\Form.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cqb13\Desktop\EXCEL_to_XML\Main\obj\Release\net6.0-windows\Form.AssemblyInfoInputs.cache
+C:\Users\cqb13\Desktop\EXCEL_to_XML\Main\obj\Release\net6.0-windows\Form.AssemblyInfo.cs
+C:\Users\cqb13\Desktop\EXCEL_to_XML\Main\obj\Release\net6.0-windows\Form.csproj.CoreCompileInputs.cache
+C:\Users\cqb13\Desktop\EXCEL_to_XML\Main\obj\Release\net6.0-windows\Form.csproj.CopyComplete
+C:\Users\cqb13\Desktop\EXCEL_to_XML\Main\obj\Release\net6.0-windows\Form.dll
+C:\Users\cqb13\Desktop\EXCEL_to_XML\Main\obj\Release\net6.0-windows\refint\Form.dll
+C:\Users\cqb13\Desktop\EXCEL_to_XML\Main\obj\Release\net6.0-windows\Form.pdb
+C:\Users\cqb13\Desktop\EXCEL_to_XML\Main\obj\Release\net6.0-windows\Form.genruntimeconfig.cache
+C:\Users\cqb13\Desktop\EXCEL_to_XML\Main\obj\Release\net6.0-windows\ref\Form.dll
+C:\Users\User\Documents\EDW Foresty Project\EXCEL_to_XML\Main\bin\Release\net6.0-windows\Form.exe
+C:\Users\User\Documents\EDW Foresty Project\EXCEL_to_XML\Main\bin\Release\net6.0-windows\Form.deps.json
+C:\Users\User\Documents\EDW Foresty Project\EXCEL_to_XML\Main\bin\Release\net6.0-windows\Form.runtimeconfig.json
+C:\Users\User\Documents\EDW Foresty Project\EXCEL_to_XML\Main\bin\Release\net6.0-windows\Form.dll
+C:\Users\User\Documents\EDW Foresty Project\EXCEL_to_XML\Main\bin\Release\net6.0-windows\Form.pdb
+C:\Users\User\Documents\EDW Foresty Project\EXCEL_to_XML\Main\bin\Release\net6.0-windows\ClosedXML.dll
+C:\Users\User\Documents\EDW Foresty Project\EXCEL_to_XML\Main\bin\Release\net6.0-windows\CsvHelper.dll
+C:\Users\User\Documents\EDW Foresty Project\EXCEL_to_XML\Main\bin\Release\net6.0-windows\CsvHelper.Excel.dll
+C:\Users\User\Documents\EDW Foresty Project\EXCEL_to_XML\Main\bin\Release\net6.0-windows\DocumentFormat.OpenXml.dll
+C:\Users\User\Documents\EDW Foresty Project\EXCEL_to_XML\Main\bin\Release\net6.0-windows\ExcelNumberFormat.dll
+C:\Users\User\Documents\EDW Foresty Project\EXCEL_to_XML\Main\obj\Release\net6.0-windows\Form.csproj.AssemblyReference.cache
+C:\Users\User\Documents\EDW Foresty Project\EXCEL_to_XML\Main\obj\Release\net6.0-windows\Main.MainForm.resources
+C:\Users\User\Documents\EDW Foresty Project\EXCEL_to_XML\Main\obj\Release\net6.0-windows\Form.csproj.GenerateResource.cache
+C:\Users\User\Documents\EDW Foresty Project\EXCEL_to_XML\Main\obj\Release\net6.0-windows\Form.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\EDW Foresty Project\EXCEL_to_XML\Main\obj\Release\net6.0-windows\Form.AssemblyInfoInputs.cache
+C:\Users\User\Documents\EDW Foresty Project\EXCEL_to_XML\Main\obj\Release\net6.0-windows\Form.AssemblyInfo.cs
+C:\Users\User\Documents\EDW Foresty Project\EXCEL_to_XML\Main\obj\Release\net6.0-windows\Form.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\EDW Foresty Project\EXCEL_to_XML\Main\obj\Release\net6.0-windows\Form.csproj.CopyComplete
+C:\Users\User\Documents\EDW Foresty Project\EXCEL_to_XML\Main\obj\Release\net6.0-windows\Form.dll
+C:\Users\User\Documents\EDW Foresty Project\EXCEL_to_XML\Main\obj\Release\net6.0-windows\refint\Form.dll
+C:\Users\User\Documents\EDW Foresty Project\EXCEL_to_XML\Main\obj\Release\net6.0-windows\Form.pdb
+C:\Users\User\Documents\EDW Foresty Project\EXCEL_to_XML\Main\obj\Release\net6.0-windows\Form.genruntimeconfig.cache
+C:\Users\User\Documents\EDW Foresty Project\EXCEL_to_XML\Main\obj\Release\net6.0-windows\ref\Form.dll
+C:\Users\User\Documents\EDW Foresty Project\EXCEL_to_XML\Main\bin\Release\net6.0-windows\Newtonsoft.Json.dll
