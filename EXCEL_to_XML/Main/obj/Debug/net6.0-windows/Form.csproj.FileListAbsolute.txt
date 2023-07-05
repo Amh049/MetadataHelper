@@ -45,3 +45,27 @@ C:\Users\User\Documents\EDW Foresty Project\EXCEL_to_XML\Main\obj\Debug\net6.0-w
 C:\Users\User\Documents\EDW Foresty Project\EXCEL_to_XML\Main\obj\Debug\net6.0-windows\Form.genruntimeconfig.cache
 C:\Users\User\Documents\EDW Foresty Project\EXCEL_to_XML\Main\obj\Debug\net6.0-windows\ref\Form.dll
 C:\Users\User\Documents\EDW Foresty Project\EXCEL_to_XML\Main\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Development\MetadataHelper\MetadataHelper\EXCEL_to_XML\Main\bin\Debug\net6.0-windows\Form.exe
+C:\Development\MetadataHelper\MetadataHelper\EXCEL_to_XML\Main\bin\Debug\net6.0-windows\Form.deps.json
+C:\Development\MetadataHelper\MetadataHelper\EXCEL_to_XML\Main\bin\Debug\net6.0-windows\Form.runtimeconfig.json
+C:\Development\MetadataHelper\MetadataHelper\EXCEL_to_XML\Main\bin\Debug\net6.0-windows\Form.dll
+C:\Development\MetadataHelper\MetadataHelper\EXCEL_to_XML\Main\bin\Debug\net6.0-windows\Form.pdb
+C:\Development\MetadataHelper\MetadataHelper\EXCEL_to_XML\Main\bin\Debug\net6.0-windows\ClosedXML.dll
+C:\Development\MetadataHelper\MetadataHelper\EXCEL_to_XML\Main\bin\Debug\net6.0-windows\CsvHelper.dll
+C:\Development\MetadataHelper\MetadataHelper\EXCEL_to_XML\Main\bin\Debug\net6.0-windows\CsvHelper.Excel.dll
+C:\Development\MetadataHelper\MetadataHelper\EXCEL_to_XML\Main\bin\Debug\net6.0-windows\DocumentFormat.OpenXml.dll
+C:\Development\MetadataHelper\MetadataHelper\EXCEL_to_XML\Main\bin\Debug\net6.0-windows\ExcelNumberFormat.dll
+C:\Development\MetadataHelper\MetadataHelper\EXCEL_to_XML\Main\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Development\MetadataHelper\MetadataHelper\EXCEL_to_XML\Main\obj\Debug\net6.0-windows\Form.csproj.AssemblyReference.cache
+C:\Development\MetadataHelper\MetadataHelper\EXCEL_to_XML\Main\obj\Debug\net6.0-windows\Main.MainForm.resources
+C:\Development\MetadataHelper\MetadataHelper\EXCEL_to_XML\Main\obj\Debug\net6.0-windows\Form.csproj.GenerateResource.cache
+C:\Development\MetadataHelper\MetadataHelper\EXCEL_to_XML\Main\obj\Debug\net6.0-windows\Form.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\MetadataHelper\MetadataHelper\EXCEL_to_XML\Main\obj\Debug\net6.0-windows\Form.AssemblyInfoInputs.cache
+C:\Development\MetadataHelper\MetadataHelper\EXCEL_to_XML\Main\obj\Debug\net6.0-windows\Form.AssemblyInfo.cs
+C:\Development\MetadataHelper\MetadataHelper\EXCEL_to_XML\Main\obj\Debug\net6.0-windows\Form.csproj.CoreCompileInputs.cache
+C:\Development\MetadataHelper\MetadataHelper\EXCEL_to_XML\Main\obj\Debug\net6.0-windows\Form.csproj.CopyComplete
+C:\Development\MetadataHelper\MetadataHelper\EXCEL_to_XML\Main\obj\Debug\net6.0-windows\Form.dll
+C:\Development\MetadataHelper\MetadataHelper\EXCEL_to_XML\Main\obj\Debug\net6.0-windows\refint\Form.dll
+C:\Development\MetadataHelper\MetadataHelper\EXCEL_to_XML\Main\obj\Debug\net6.0-windows\Form.pdb
+C:\Development\MetadataHelper\MetadataHelper\EXCEL_to_XML\Main\obj\Debug\net6.0-windows\Form.genruntimeconfig.cache
+C:\Development\MetadataHelper\MetadataHelper\EXCEL_to_XML\Main\obj\Debug\net6.0-windows\ref\Form.dll
