@@ -1,5 +1,5 @@
 ﻿
-namespace Form.Utility
+namespace Form.Utility  //Just a class to get and set directories
 {
    public class Directories
     {

@@ -1,6 +1,6 @@
 ﻿namespace Form.Utility;
 
-public class AttributesMetadata
+public class AttributesMetadata // Class to get and set attribute requirements
 {
     public string AttributeLabel { get; set; }
     public string AttributeDefinition { get; set; }

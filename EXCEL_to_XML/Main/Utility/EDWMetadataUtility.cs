@@ -3,28 +3,28 @@ using CsvHelper.Excel;
 using CsvHelper;
 using System.Globalization;
 using System.Xml.Linq;
-using System.Xml.XPath;
+using System.Xml.XPath;   // all the listed above are built in tools/ and  downloaded NuGet packages
 
 namespace Form.Utility;
 
-public class EDWMetadataUtility
+public class EDWMetadataUtility //set up and congifuration below
 {
     public string Run(string xmlPath, string dataSourcePath, string outputFolderPath)
     {
         #region Config / setup
 
-        var templateSheetNames = new List<string> { "EDW_CoreMetadata", "EDW_AttributesMetadata" }; //This is reading in our Core Metadat Sheet and The Attribute Sheet
+        var templateSheetNames = new List<string> { "EDW_CoreMetadata", "EDW_AttributesMetadata" }; //This is reading in our Core Metadata Sheet and The Attribute Sheet
 
         var config = new CsvConfiguration(CultureInfo.InvariantCulture)
         {
             PrepareHeaderForMatch = header => header.Header.ToLower().Replace(" ", string.Empty), // Ignore casing and remove spaces
-            ShouldSkipRecord = row => row.Record[0].StartsWith("Attribution Information") //this is skipping the first row in our the attribute information sheet
+            ShouldSkipRecord = row => row.Record[0].StartsWith("Attribution Information") //This is skipping the first row in our the attribute information sheet
         };
 
-        #endregion
+        #endregion 
 
         #region Reading in template sheets 
-        var coreMetadataRecords = new List<CoreMetadataField>();
+        var coreMetadataRecords = new List<CoreMetadataField>(); // Creating a new instance of a list for both Core Metadata and Attribute data
         var attributesMetadataRecords = new List<AttributesMetadata>();
 
         foreach (var sheetName in templateSheetNames)
@@ -70,7 +70,7 @@ public class EDWMetadataUtility
         return outputFilePath;
     }
 
-    private void HandleCoreData(XElement dataSet, List<CoreMetadataField> coreMetadataRecords)
+    private void HandleCoreData(XElement dataSet, List<CoreMetadataField> coreMetadataRecords) //Reading in xml template and adding data from our minimum metadata template
     {
         var xmlTemplateElements = dataSet.DescendantsAndSelf();
 
