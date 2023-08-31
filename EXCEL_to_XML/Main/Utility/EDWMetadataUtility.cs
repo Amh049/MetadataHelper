@@ -42,7 +42,7 @@ public class EDWMetadataUtility //set up and congifuration below
                 attributesMetadataRecords = reader.GetRecords<AttributesMetadata>().ToList();
             }
         }
-        #endregion
+        #endregionX
 
         #region Main Processing
 
